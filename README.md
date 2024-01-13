@@ -1,1 +1,3 @@
-I'm not really sure how to describe this..
+Preview: https://program-rk.github.io/textified-gif/
+
+Not really sure what this is.. 
