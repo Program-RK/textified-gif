@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: white;
+    overflow: hidden;
+}
+
+section {
+    background: #d3afaf;
+}
+
+p{
+    font-size: 13px;
+    line-height: 10px;
+    background: URL(fish.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+    font-weight: 900;
+    margin: 0;
+    mix-blend-mode: darken;
+}
